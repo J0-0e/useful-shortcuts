@@ -1,0 +1,55 @@
+Select Section:
+	current line with linebreak: Ctrl + L;
+	current line with multiline: Shift + (up or down Arrow);
+	current line with multiline: Shift + (pageup or pagedown);
+	current line: Shift + (end or home);
+	char by char: Shift + (Left or Right Arrow);
+	all same (one by one): Ctrl + D;
+
+Open Section:
+	to new open: Ctrl + O;
+	terminal: Ctrl + `;
+	settings: Ctrl + ,;
+
+Go Section:
+	to change in (sidebar, panel, ...etc): Ctrl + Q;
+	to change file from opened: Ctrl + Tab;
+	to end line in file: Ctrl + End;
+	to first line in file: Ctrl + Home;
+	to end of line: End;
+	to first of line: Home;
+	to some lines down: PageDown;
+	to some lines up: PageUp;
+	to go right opened file: Ctrl + PageDown;
+	to go left opened file: Ctrl + PageUp;
+
+Save Section:
+	current doc: Ctrl + S;
+	all docs: Ctrl + Shift + S;
+	
+Delete Section:
+	current line: Shift + Delete;
+	from cursor to end word: Ctrl + Delete;
+	next char of cursor: Delete;
+
+Search Section:
+	find and go in all files in current folder where opened folder live: Ctrl + T;
+	find and go to different files: Ctrl + E or P;
+	find and go to different saved history opend projs: Ctrl + R;
+	find all in doc (can select to find quickly): Ctrl + F;
+	find all and replace in doc (can select to find quickly): Ctrl + H;
+
+Collapse Section:
+	All Opens: Ctrl + Left Arrow;
+	panel (e.g terminal): Ctrl + J;
+	sidebar: Ctrl + b;
+
+Move Section:
+	line Up: Alt + Up Arrow;
+	line Down: Alt + Down Arrow;
+
+Copy Section: (can select multiline first)
+	to Up: Alt + Shift + Up Arrow;
+	to Down: Alt + Shift + Down Arrow;
+
+Format document: Alt + Shift + F;
