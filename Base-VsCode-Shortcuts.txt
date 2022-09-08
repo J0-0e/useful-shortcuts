@@ -5,6 +5,7 @@ Select Section:
 	current line: Shift + (end or home);
 	char by char: Shift + (Left or Right Arrow);
 	all same (one by one): Ctrl + D;
+	word by word: Shift + Ctrl + (Left or Right Arrow);
 
 Open Section:
 	to new open: Ctrl + O;
